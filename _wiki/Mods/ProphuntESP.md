@@ -10,4 +10,4 @@ labels:
 {:toc}
 
 ## Overview
-ProphuntESP is a mod that allows you to see fake blocks in Prophunt.
+ProphuntESP is a mod that allows you to see fake blocks in Prophunt.[it's only work in 1.7-1.8.9,not work in 1.9.X]
